@@ -1,5 +1,5 @@
 Pi = 3.14;
 
-def calc_area(radiis):
+def calc_area(radius):
     print "we are in %s" %__name__;
-    print Pi * (radiis ** 2);
+    print Pi * (radius ** 2);
